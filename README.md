@@ -7,11 +7,16 @@ This project was tied to an internal Kaggle competition to predict housing price
 Using the Ames Housing Data from 2006-2010, build a linear regression model that will most accurately predict housing prices (given 80 housing features to select from and model with.)
 
 ### Contents of the Folder:
-1. Ames Housing Project Notebook
-2. Training Data
-3. Test Data
-4. Final Kaggle Submission CSV
-5. Presentation Slides
+1. [Ames Housing Project Notebook](https://github.com/katerdowdy/ames_housing/blob/master/Ames_Housing_Project_Notebook.ipynb)
+2. [Training Data](https://github.com/katerdowdy/ames_housing/blob/master/train.csv)
+3. [Test Data](https://github.com/katerdowdy/ames_housing/blob/master/test.csv)
+4. [Final Kaggle Submission CSV](https://github.com/katerdowdy/ames_housing/blob/master/kagglev12)
+5. [Presentation Slides](https://github.com/katerdowdy/ames_housing/blob/master/Ames_Housing_Presentation.pdf)
+
+This project was completed as part of General Assembly's Data Science Immersive in December, 2018 (4 weeks into the course.)
+
+Packages/tools required to run the notebook: Python, Pandas, Numpy, Sciki-learn, Matplotlib, Seaborn
+
 ------------------
 ### Modeling Process:
 Key decisions I made during the modeling process:
